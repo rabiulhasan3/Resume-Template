@@ -541,7 +541,7 @@ blockquote {
 	height: 100%;
 	min-height: 300px;
 	width: 100%;
-	background-position: center;
+	background-position: initial;
 	background-repeat: no-repeat;
 	background-size: cover
 }
