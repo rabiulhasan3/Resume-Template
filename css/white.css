@@ -1107,63 +1107,310 @@ h3.comment-reply-title:after {
 	height: 8px;
 	padding: 0
 }
-.skill-percentage.skill-1 {
+.skill-percentage.skill-0{
+	width: 0%
+}
+.skill-percentage.skill-1{
+	width: 1%
+}
+.skill-percentage.skill-2{
+	width: 2%
+}
+.skill-percentage.skill-3{
+	width: 3%
+}
+.skill-percentage.skill-4{
+	width: 4%
+}
+.skill-percentage.skill-5{
+	width: 5%
+}
+.skill-percentage.skill-6{
+	width: 6%
+}
+.skill-percentage.skill-7{
+	width: 7%
+}
+.skill-percentage.skill-8{
+	width: 8%
+}
+.skill-percentage.skill-9{
+	width: 9%
+}
+.skill-percentage.skill-10{
 	width: 10%
 }
-.skill-percentage.skill-1-5 {
+.skill-percentage.skill-11{
+	width: 11%
+}
+.skill-percentage.skill-12{
+	width: 12%
+}
+.skill-percentage.skill-13{
+	width: 13%
+}
+.skill-percentage.skill-14{
+	width: 14%
+}
+.skill-percentage.skill-15{
 	width: 15%
 }
-.skill-percentage.skill-2 {
+.skill-percentage.skill-16{
+	width: 16%
+}
+.skill-percentage.skill-17{
+	width: 17%
+}
+.skill-percentage.skill-18{
+	width: 18%
+}
+.skill-percentage.skill-19{
+	width: 19%
+}
+.skill-percentage.skill-20{
 	width: 20%
 }
-.skill-percentage.skill-2-5 {
+.skill-percentage.skill-21{
+	width: 21%
+}
+.skill-percentage.skill-22{
+	width: 22%
+}
+.skill-percentage.skill-23{
+	width: 23%
+}
+.skill-percentage.skill-24{
+	width: 24%
+}
+.skill-percentage.skill-25{
 	width: 25%
 }
-.skill-percentage.skill-3 {
+.skill-percentage.skill-26{
+	width: 26%
+}
+.skill-percentage.skill-27{
+	width: 27%
+}
+.skill-percentage.skill-28{
+	width: 28%
+}
+.skill-percentage.skill-29{
+	width: 29%
+}
+.skill-percentage.skill-30{
 	width: 30%
 }
-.skill-percentage.skill-3-5 {
+.skill-percentage.skill-31{
+	width: 31%
+}
+.skill-percentage.skill-32{
+	width: 32%
+}
+.skill-percentage.skill-33{
+	width: 33%
+}
+.skill-percentage.skill-34{
+	width: 34%
+}
+.skill-percentage.skill-35{
 	width: 35%
 }
-.skill-percentage.skill-4 {
+.skill-percentage.skill-36{
+	width: 36%
+}
+.skill-percentage.skill-37{
+	width: 37%
+}
+.skill-percentage.skill-38{
+	width: 38%
+}
+.skill-percentage.skill-39{
+	width: 39%
+}
+.skill-percentage.skill-40{
 	width: 40%
 }
-.skill-percentage.skill-4-5 {
+.skill-percentage.skill-41{
+	width: 41%
+}
+.skill-percentage.skill-42{
+	width: 42%
+}
+.skill-percentage.skill-43{
+	width: 43%
+}
+.skill-percentage.skill-44{
+	width: 44%
+}
+.skill-percentage.skill-45{
 	width: 45%
 }
-.skill-percentage.skill-5 {
+.skill-percentage.skill-46{
+	width: 46%
+}
+.skill-percentage.skill-47{
+	width: 47%
+}
+.skill-percentage.skill-48{
+	width: 48%
+}
+.skill-percentage.skill-49{
+	width: 49%
+}
+.skill-percentage.skill-50{
 	width: 50%
 }
-.skill-percentage.skill-5-5 {
+.skill-percentage.skill-51{
+	width: 51%
+}
+.skill-percentage.skill-52{
+	width: 52%
+}
+.skill-percentage.skill-53{
+	width: 53%
+}
+.skill-percentage.skill-54{
+	width: 54%
+}
+.skill-percentage.skill-55{
 	width: 55%
 }
-.skill-percentage.skill-6 {
+.skill-percentage.skill-56{
+	width: 56%
+}
+.skill-percentage.skill-57{
+	width: 57%
+}
+.skill-percentage.skill-58{
+	width: 58%
+}
+.skill-percentage.skill-59{
+	width: 59%
+}
+.skill-percentage.skill-60{
 	width: 60%
 }
-.skill-percentage.skill-6-5 {
+.skill-percentage.skill-61{
+	width: 61%
+}
+.skill-percentage.skill-62{
+	width: 62%
+}
+.skill-percentage.skill-63{
+	width: 63%
+}
+.skill-percentage.skill-64{
+	width: 64%
+}
+.skill-percentage.skill-65{
 	width: 65%
 }
-.skill-percentage.skill-7 {
+.skill-percentage.skill-66{
+	width: 66%
+}
+.skill-percentage.skill-67{
+	width: 67%
+}
+.skill-percentage.skill-68{
+	width: 68%
+}
+.skill-percentage.skill-69{
+	width: 69%
+}
+.skill-percentage.skill-70{
 	width: 70%
 }
-.skill-percentage.skill-7-5 {
+.skill-percentage.skill-71{
+	width: 71%
+}
+.skill-percentage.skill-72{
+	width: 72%
+}
+.skill-percentage.skill-73{
+	width: 73%
+}
+.skill-percentage.skill-74{
+	width: 74%
+}
+.skill-percentage.skill-75{
 	width: 75%
 }
-.skill-percentage.skill-8 {
+.skill-percentage.skill-76{
+	width: 76%
+}
+.skill-percentage.skill-77{
+	width: 77%
+}
+.skill-percentage.skill-78{
+	width: 78%
+}
+.skill-percentage.skill-79{
+	width: 79%
+}
+.skill-percentage.skill-80{
 	width: 80%
 }
-.skill-percentage.skill-8-5 {
+.skill-percentage.skill-81{
+	width: 81%
+}
+.skill-percentage.skill-82{
+	width: 82%
+}
+.skill-percentage.skill-83{
+	width: 83%
+}
+.skill-percentage.skill-84{
+	width: 84%
+}
+.skill-percentage.skill-85{
 	width: 85%
 }
-.skill-percentage.skill-9 {
+.skill-percentage.skill-86{
+	width: 86%
+}
+.skill-percentage.skill-87{
+	width: 87%
+}
+.skill-percentage.skill-88{
+	width: 88%
+}
+.skill-percentage.skill-89{
+	width: 89%
+}
+.skill-percentage.skill-90{
 	width: 90%
 }
-.skill-percentage.skill-9-5 {
+.skill-percentage.skill-91{
+	width: 91%
+}
+.skill-percentage.skill-92{
+	width: 92%
+}
+.skill-percentage.skill-93{
+	width: 93%
+}
+.skill-percentage.skill-94{
+	width: 94%
+}
+.skill-percentage.skill-95{
 	width: 95%
 }
-.skill-percentage.skill-10 {
+.skill-percentage.skill-96{
+	width: 96%
+}
+.skill-percentage.skill-97{
+	width: 97%
+}
+.skill-percentage.skill-98{
+	width: 98%
+}
+.skill-percentage.skill-99{
+	width: 99%
+}
+.skill-percentage.skill-100{
 	width: 100%
 }
+
 .portfolio-grid {
 	margin-left: -0.5em;
 	margin-right: -0.5em
